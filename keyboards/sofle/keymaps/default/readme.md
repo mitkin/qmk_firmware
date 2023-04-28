@@ -17,3 +17,7 @@ Features:
 - Left encoder controls volume up/down/mute. Right encoder PGUP/PGDOWN.
 
 
+# Compile
+```
+qmk flash -kb sofle/rev1 -km default 
+```
